@@ -1,0 +1,17 @@
+{
+  "name": "simulator",
+  "version": "1.0.0",
+  "description": "control car",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Alfonso",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^7.0.18",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.6",
+    "typescript": "^2.3.2"
+  }
+}
